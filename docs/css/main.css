@@ -403,6 +403,7 @@ button:focus {
 /* ==========================================================================
    3. Hero Area
    ========================================================================== */
+
 #hero-area {
   background: url(../img/hero-area.jpg) fixed no-repeat;
   background-size: cover;
@@ -418,7 +419,7 @@ button:focus {
   top: 0px;
   left: 0px;
   background: #61D2B4;
-  opacity: 0.9;
+  opacity: 0;
 }
 
 #hero-area .contents {
